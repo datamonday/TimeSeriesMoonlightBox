@@ -21,7 +21,7 @@
 |  Time Series Analysis  |  TSA   |  时间序列分析   |
 | Time Series Anomaly Detection | TSAD |  时间序列预测|
 | Time Series Classification  | TSC  | 时间序列分类  |
-|  Time Series Forecasting  |  TSAD   |   时间序列异常检测  |
+|  Time Series Forecasting  |  TSF   |   时间序列异常检测  |
 |  Spatio-Temporal Forecasting  |  STF   |  时空预测   |
 
 
