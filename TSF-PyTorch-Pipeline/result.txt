@@ -1,0 +1,3 @@
+train_LSTM_processed_data.csv_MISO_sl-144_pl-0_ll-6_n-layer-2_hs-48_iter-0  
+mse:0.8565059304237366, mae:0.7512652277946472
+
